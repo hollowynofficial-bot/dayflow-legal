@@ -1,1 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Nevixo Support</title>
 
+<style>
+body{
+    max-width:850px;
+    margin:40px auto;
+    padding:20px;
+    font-family:Arial,Helvetica,sans-serif;
+    line-height:1.7;
+    color:#222;
+}
+
+h1{
+    color:#111827;
+}
+
+h2{
+    margin-top:35px;
+    color:#111827;
+}
+
+h3{
+    margin-top:25px;
+    color:#1F2937;
+}
+
+a{
+    color:#2563EB;
+    text-decoration:none;
+}
+
+a:hover{
+    text-decoration:underline;
+}
+
+.box{
+    background:#F9FAFB;
+    border:1px solid #E5E7EB;
+    border-radius:10px;
+    padding:18px;
+    margin:25px 0;
+}
+</style>
+</head>
+
+<body>
+
+<h1>Nevixo Support</h1>
+
+<p><strong>Last updated:</strong> July 2026</p>
+
+<p>
+Welcome to the Nevixo Support Center.
+If you need help using the app, encounter a problem, or would like to suggest a feature,
+you can contact us at any time.
+</p>
+
+<div class="box">
+<b>Support Email</b><br><br>
+
+<a href="mailto:hollowynofficial@gmail.com">
+hollowynofficial@gmail.com
+</a>
+
+<p>
+We usually respond within a few business days.
+</p>
+</div>
+
+<h2>Frequently Asked Questions</h2>
+
+<h3>How do I create an account?</h3>
+
+<p>
+Open Nevixo and sign in using your email address.
+Your data will then be securely synchronized across your devices.
+</p>
+
+<h3>How do I delete my account?</h3>
+
+<p>
+You can permanently delete your account and its associated data from the Settings section inside the app.
+You may also use our Account Deletion page if available.
+</p>
+
+<h3>Why am I not receiving notifications?</h3>
+
+<p>
+Make sure notifications are enabled both in Nevixo and in your device settings.
+If reminders are disabled, the app cannot send notifications.
+</p>
+
+<h3>How do I sync my data?</h3>
+
+<p>
+Simply sign in with the same account on each device.
+Your information will automatically synchronize through your account.
+</p>
+
+<h3>Can I use Nevixo offline?</h3>
+
+<p>
+Yes.
+Most productivity features remain available offline.
+Some cloud features require an internet connection.
+</p>
+
+<h3>How can I report a bug?</h3>
+
+<p>
+If you encounter a bug, please send us an email describing the issue.
+Including your device model and operating system version helps us investigate more quickly.
+</p>
+
+<h3>How can I suggest a new feature?</h3>
+
+<p>
+We love hearing your ideas.
+Send your suggestions to our support email and we'll consider them for future updates.
+</p>
+
+<h2>Contact</h2>
+
+<p>
+Email:
+<a href="mailto:hollowynofficial@gmail.com">
+hollowynofficial@gmail.com
+</a>
+</p>
+
+<hr>
+
+<p style="color:#666;font-size:14px;">
+© 2026 Hollowyn. All rights reserved.
+</p>
+
+</body>
+</html>
